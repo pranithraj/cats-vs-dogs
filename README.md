@@ -1,0 +1,2 @@
+# cats-vs-dogs
+This project develops an algorithm to classify cats and dogs. This can be achieved by applying effective deep learning algorithms. The user just needs to open the application and focusses it on the animals and the model predicts whether the image in frame is a cat or a dog. Since the digital technologies are relatively low cost and easy to use, we deploy our deep learning model to a Windows device.
